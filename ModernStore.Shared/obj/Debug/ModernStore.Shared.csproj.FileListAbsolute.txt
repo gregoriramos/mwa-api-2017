@@ -1,8 +1,0 @@
-C:\Users\Gregori Ramos\Documents\dev\ModernStore\ModernStore.Shared\bin\Debug\ModernStore.Shared.dll
-C:\Users\Gregori Ramos\Documents\dev\ModernStore\ModernStore.Shared\bin\Debug\ModernStore.Shared.pdb
-C:\Users\Gregori Ramos\Documents\dev\ModernStore\ModernStore.Shared\bin\Debug\FluentValidator.dll
-C:\Users\Gregori Ramos\Documents\dev\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.csproj.CoreCompileInputs.cache
-C:\Users\Gregori Ramos\Documents\dev\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.csproj.CopyComplete
-C:\Users\Gregori Ramos\Documents\dev\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.dll
-C:\Users\Gregori Ramos\Documents\dev\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.pdb
-C:\Users\Gregori Ramos\Documents\dev\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.csprojAssemblyReference.cache
